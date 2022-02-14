@@ -1,13 +1,25 @@
 # Weather-Journal App Project
 
-## Overview
-
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
-
 ## Instructions
+1) Install node.js on your pc
+2) Open package.json file and install required dependencies with ( npm install package-name )
+3) open terminal in server.js and run the following command to start the server ( node server.js )
+4) open browser and go to ( localhost:8080 )
+5) Server runs on port: 8080 - Change port in server.js file
 
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+## Project Description
+Asynchronous web app that uses Web API and user data to dynamically update the UI.
 
-## Extras
+### Project author
+Mohammed Rezk Assar
 
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+### Project Technologies
+- JavaScript
+- Node.JS
+- Weather API
+- HTML
+- CSS
+
+### Resources
+- [nfp disscussions](https://nfpdiscussions.udacity.com/c/questions-hub/web-professional-questions-hub/85)
+- [Weather journal app Walkthrough](https://udacity.zoom.us/rec/play/jIz3lMYR7HTQoeIxwswRWWVOJF7A1tuT4FxXcZpdi0kfTGtOc8IGwOH0rIBLjVNWPEHHt95hfttI6aME.fPOnJ4GmrJ45rfMl)
